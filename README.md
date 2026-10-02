@@ -20,3 +20,14 @@ SET SERVEROUTPUT ON;
 @01_goto/A1_basic_goto.sql
 @02_functions/B1_fn_annual_salary.sql
 @03_tests/C1_tests.sql
+## Assignment Screenshots (Final Submission)
+
+### Screenshots Folder: /screenshots/
+- 01_A1_number_classifier.png - GOTO number classifier
+- 02_A2_salary_review.png - Salary review
+- 03_A3_illegal_error.png - PLS-00375 illegal GOTO error (proof)
+- 04_A3_fixed.png - Fixed legal GOTO version
+- 05_A4_no_goto.png - No GOTO rewrite (best practice)
+
+### Reflection
+A3 taught that GOTO cannot jump INTO an IF block. A4 shows IF-ELSIF is cleaner than GOTO.
