@@ -1,12 +1,4 @@
 
-3. Commit changes
-
-**2. Create Reflection**
-1. Add file -> Create new file
-2. Name: `docs/REFLECTION.md`
-3. Paste:
-
-```markdown
 # Reflection - Sharon Mulisa
 
 ## What I learned about GOTO
